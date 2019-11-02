@@ -8,7 +8,7 @@
 <p align="center">&nbsp;</p>
 <p align="center">&nbsp;</p>
 <p align="center"><a href="https://2345hy.com">
-<img border="0" src="https://images.imags-google.com/hyun/logo/logo1.png" width="220" height="80"></a></p>
+<img border="0" src="https://images.imags-google.com/hyun/logo/logo1.png" width="200" height="50"></a></p>
 <p align="center"><b><font color="#E72538" size="6">
 <a href="https://2345hy.com"><font color="#E72538">
 <span style="text-decoration: none">2345hy.com</span></font></a></font></b></p>
