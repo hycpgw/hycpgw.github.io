@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/hycpgw/hycpgw.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<head>
+<meta http-equiv="Content-Language" content="zh-cn">
+</head>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hycpgw/hycpgw.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center"><a href="https://2345hy.com">
+<img border="0" src="未标题-2.png" width="220" height="80"></a></p>
+<p align="center"><b><font color="#E72538" size="6">
+<a href="https://2345hy.com"><font color="#E72538">
+<span style="text-decoration: none">2345hy.com</span></font></a></font></b></p>
+<p align="center"><b><font color="#E72538" size="7" face="华康标题宋W9(P)">
+<a href="https://2345hy.com"><font color="#E72538">
+<span style="text-decoration: none; letter-spacing: 5px">请点击访问</span></font></a></font></b></p>
+<p align="center">&nbsp;</p>
+<p align="center"><b><a href="https://2345hy.com">
+<span style="letter-spacing: 5px; text-decoration: none">
+<font face="华康标题宋W9(P)" size="6" color="#E72538">导师Q：</font></span></a></b></p>
+<p align="center"><b><a href="https://2345hy.com">
+<span style="letter-spacing: 5px; text-decoration: none">
+<font face="华康标题宋W9(P)" size="6" color="#E72538">导师Q：</font></span></a></b></p>
