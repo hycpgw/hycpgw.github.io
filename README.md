@@ -1,6 +1,8 @@
 
 <head>
 <meta http-equiv="Content-Language" content="zh-cn">
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>鸿运彩票</title>
 </head>
 
 <p align="center">&nbsp;</p>
