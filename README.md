@@ -1,12 +1,11 @@
-<html>
 
-<head>
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>鸿运彩票导航</title>
+</body>
+</html>
 <meta http-equiv="Content-Language" content="zh-cn">
-<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
-<title>鸿运彩票</title>
 </head>
-
-<body>
 
 <p align="center">&nbsp;</p>
 <p align="center">&nbsp;</p>
@@ -27,3 +26,6 @@
 <p align="center"><b><a href="https://2345hy.com">
 <span style="letter-spacing: 5px; text-decoration: none">
 <font face="华康标题宋W9(P)" size="6" color="#E72538">导师Q：</font></span></a></b></p>
+
+
+
