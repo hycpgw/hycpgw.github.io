@@ -1,7 +1,7 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-  <title>鸿运彩票导航</title>
+  <title>鸿运彩票</title>
 </body>
 </html>
 <meta http-equiv="Content-Language" content="zh-cn">
