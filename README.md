@@ -28,7 +28,7 @@
 		<td>　</td>
 		<td align="center">
 		<p align="center"><a target="_blank" href="https://089hy.com/register?id=61220555">
-		<img border="0" src="https://tinyurl.com/y5b8twu2" width="217" height="64"></a></td>
+		<img border="0" src="https://tinyurl.com/y5b8twu2" width="250" height="80"></a></td>
 		<td>　</td>
 	</tr>
 	<tr>
